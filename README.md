@@ -1,1 +1,2 @@
 # .github
+I spend my days imagining communal futures of computing, conjuring soulful speculations of new futures at verses, exploring 𝓽𝓲𝓷𝔂 𝓲𝓷𝓽𝓮𝓻𝓷𝓮𝓽𝓼, and exploring poetry, through writing, art, and software. Some other explorations that don't quite fit into these boxes include baristaing, site-specific digital media installations, and wearable ritual makers. Before, I crafted tools for tinkers at Coda for several years.
